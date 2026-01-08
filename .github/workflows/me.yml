@@ -25,6 +25,13 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
+          plugin_notable: yes
+          plugin_notable_from: all
+          plugin_notable_types: commit
+
+          plugin_stars: yes
+          plugin_stars_limit: 4
+
           plugin_languages: yes
           plugin_languages_ignored: html, css, tex
           plugin_languages_details: bytes-size, percentage
