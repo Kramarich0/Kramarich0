@@ -2,7 +2,7 @@
 ## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Fullstack+Developer;Prisma+Expert;Security+Enthusiast;Building+Awesome+Things](https://readme-typing-svg.demolab.com/?font=Jetbrainsmono&pause=1000&color=1400ff&width=500&lines=Frontend+Engineer;TypeScript+Lover;React+Developer;Learning+Fullstack+Magic" alt="Typing SVG" />
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kramarich0&theme=radical" alt="Streak" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Kramarich0&theme=radical)](https://git.io/streak-stats)
 </p>
 
 ---
