@@ -58,5 +58,4 @@ jobs:
           plugin_achievements_threshold: B
           plugin_achievements_display: compact
 
-      - name: Profile Readme Development Stats
-          uses: anmol098/waka-readme-stats@v5
+
