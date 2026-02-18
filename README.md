@@ -1,6 +1,6 @@
 # Hello! 👋
 <!-- ## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Fullstack+Developer;Prisma+Expert;Security+Enthusiast;Building+Awesome+Things](https://readme-typing-svg.demolab.com/?font=Jetbrainsmono&pause=1000&color=1400ff&width=500&lines=Frontend+Engineer;TypeScript+Lover;React+Developer;Learning+Fullstack+Magic" alt="Typing SVG" /> -->
-[![wakatime](https://wakatime.com/badge/user/d737cf58-0abb-4401-8dfa-0a639be02013.svg)](https://wakatime.com/@d737cf58-0abb-4401-8dfa-0a639be02013)
+<!-- [![wakatime](https://wakatime.com/badge/user/d737cf58-0abb-4401-8dfa-0a639be02013.svg)](https://wakatime.com/@d737cf58-0abb-4401-8dfa-0a639be02013) -->
 
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Kramarich0&theme=transparent&hide_border=true" alt="GitHub Streak" /></a></p>
 
