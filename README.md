@@ -5,13 +5,13 @@
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Kramarich0&theme=transparent&hide_border=true" alt="GitHub Streak" /></a></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-537%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-553%20hrs%2050%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 918.0 kB Used in GitHub's Storage 
+> 📦 918.2 kB Used in GitHub's Storage 
  > 
 > 🏆 801 Contributions in the Year 2026
  > 
@@ -48,20 +48,20 @@ Sunday                   1502 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-TypeScript               28 hrs 46 mins      ███████████████████░░░░░░   74.87 % 
-JSON                     3 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-JavaScript               3 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-Other                    50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-YAML                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+TypeScript               30 hrs 57 mins      ███████████████████░░░░░░   76.16 % 
+JSON                     4 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+JavaScript               3 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+Other                    46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+YAML                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 
 🔥 Editors: 
-VS Code                  38 hrs 26 mins      █████████████████████████   100.00 % 
+VS Code                  40 hrs 38 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-web                      38 hrs 26 mins      █████████████████████████   100.00 % 
+web                      40 hrs 38 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  38 hrs 26 mins      █████████████████████████   100.00 % 
+Windows                  40 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -81,7 +81,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kramarich0/Kramarich0/main/assets/bar_graph.png)
 
 
- Last Updated on 30/03/2026 19:37:07 UTC
+ Last Updated on 31/03/2026 19:37:00 UTC
 <!--END_SECTION:waka-->
 
 ---
