@@ -11,7 +11,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 654.7 kB Used in GitHub's Storage 
+> 📦 654.9 kB Used in GitHub's Storage 
  > 
 > 🏆 977 Contributions in the Year 2026
  > 
@@ -48,22 +48,16 @@ Sunday                   6008 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-TypeScript               1 hr 42 mins        █████████████████░░░░░░░░   66.71 % 
-C#                       25 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
-JSON                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-Python                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-C++                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 33 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-sbs_srch_nfrm            1 hr 28 mins        ██████████████░░░░░░░░░░░   57.96 % 
-doxynix                  47 mins             ████████░░░░░░░░░░░░░░░░░   31.13 % 
-Unknown Project          16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 33 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C#** 
@@ -83,7 +77,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kramarich0/Kramarich0/main/assets/bar_graph.png)
 
 
- Last Updated on 20/07/2026 20:15:25 UTC
+ Last Updated on 21/07/2026 20:09:29 UTC
 <!--END_SECTION:waka-->
 
 ---
