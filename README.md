@@ -9,11 +9,11 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-19%20hrs%2020%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 662.0 kB Used in GitHub's Storage 
+> 📦 662.3 kB Used in GitHub's Storage 
  > 
 > 🏆 1,121 Contributions in the Year 2026
  > 
@@ -50,49 +50,49 @@ Sunday                   5563 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-TypeScript               20 hrs 11 mins      ████████████████░░░░░░░░░   62.88 % 
-JSON                     8 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   27.64 % 
-TSConfig                 48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-YAML                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-Markdown                 29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+TypeScript               34 hrs 11 mins      █████████████████░░░░░░░░   69.60 % 
+JSON                     9 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
+Markdown                 1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+CSS                      57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+TSConfig                 55 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 
 🔥 Editors: 
-VS Code                  31 hrs 39 mins      █████████████████████████   98.59 % 
-Trae                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-Visual                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+VS Code                  48 hrs 39 mins      █████████████████████████   99.08 % 
+Trae                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Visual                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-doxynix                  17 hrs 54 mins      ██████████████░░░░░░░░░░░   55.74 % 
-voxhold                  13 hrs 50 mins      ███████████░░░░░░░░░░░░░░   43.08 % 
-voxhold-frontend-main    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-voxhold-backend          10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+voxhold                  25 hrs 38 mins      █████████████░░░░░░░░░░░░   52.22 % 
+doxynix                  23 hrs 2 mins       ████████████░░░░░░░░░░░░░   46.91 % 
+voxhold-backend          25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+call_ovJhrd99iHYSSjGPhocU0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Linux                    32 hrs 6 mins       █████████████████████████   100.00 % 
+Linux                    49 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 44 mins (8.55%)
+⏱ AI Coding Time: 3 hrs 26 mins (7.01%)
 
-✍️ 771 lines written by AI, 7,787 lines written by hand (9.01% AI-written)
+✍️ 772 lines written by AI, 11,394 lines written by hand (6.35% AI-written)
 
-🔤 106,163 Input Tokens, 1,722 Output Tokens
+🔤 282,648 Input Tokens, 3,441 Output Tokens
 
-💵 $0.34 Estimated AI Cost This Week
+💵 $0.90 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 26 AI Prompts
+🧠 7 AI Sessions, 45 AI Prompts
 
-Github-Copilot           753 lines           ████████████████████████░   97.54 % 
+Github-Copilot           754 lines           ████████████████████████░   97.54 % 
 Gemini                   19 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 9.01% of written lines came from AI
-📄 Detailed Prompter — average 730 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 95.43% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 6.35% of written lines came from AI
+📄 Detailed Prompter — average 567 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 97.25% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C#** 
@@ -112,7 +112,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kramarich0/Kramarich0/main/assets/bar_graph.png)
 
 
- Last Updated on 02/09/2026 21:20:08 UTC
+ Last Updated on 03/09/2026 21:23:32 UTC
 <!--END_SECTION:waka-->
 
 ---
