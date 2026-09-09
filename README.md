@@ -5,7 +5,7 @@
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Kramarich0&theme=transparent&hide_border=true" alt="GitHub Streak" /></a></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-821%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-825%20hrs%2032%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-19%20hrs%2020%20mins-blue?style=flat)
 
@@ -13,9 +13,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 658.9 kB Used in GitHub's Storage 
+> 📦 659.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,126 Contributions in the Year 2026
+> 🏆 1,141 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -26,21 +26,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                530 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-🌆 Daytime                7930 commits        █████████░░░░░░░░░░░░░░░░   36.17 % 
-🌃 Evening                7636 commits        █████████░░░░░░░░░░░░░░░░   34.83 % 
-🌙 Night                  5827 commits        ███████░░░░░░░░░░░░░░░░░░   26.58 % 
+🌞 Morning                554 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+🌆 Daytime                8042 commits        █████████░░░░░░░░░░░░░░░░   35.93 % 
+🌃 Evening                7789 commits        █████████░░░░░░░░░░░░░░░░   34.80 % 
+🌙 Night                  5998 commits        ███████░░░░░░░░░░░░░░░░░░   26.80 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   2747 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-Tuesday                  2544 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Wednesday                2220 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-Thursday                 3425 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-Friday                   2274 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-Saturday                 3207 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-Sunday                   5506 commits        ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
+Monday                   2801 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+Tuesday                  2591 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+Wednesday                2335 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Thursday                 3478 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Friday                   2334 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Saturday                 3281 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Sunday                   5563 commits        ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
 ```
 
 
@@ -50,43 +50,29 @@ Sunday                   5506 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-TypeScript               24 hrs 34 mins      █████████████████░░░░░░░░   66.90 % 
-JSON                     7 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-Markdown                 1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-TSConfig                 1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-YAML                     40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+TypeScript               22 hrs 52 mins      ████████████████░░░░░░░░░   63.95 % 
+JSON                     7 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+Markdown                 1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+TSConfig                 58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+Other                    28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 🔥 Editors: 
-VS Code                  36 hrs 44 mins      █████████████████████████   100.00 % 
+VS Code                  35 hrs 45 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-doxynix                  32 hrs 38 mins      ██████████████████████░░░   88.86 % 
-voxhold                  3 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-python                   17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+doxynix                  35 hrs 27 mins      █████████████████████████   99.15 % 
+python                   17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+voxhold                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 turborepo                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Linux                    36 hrs 44 mins      █████████████████████████   100.00 % 
+Linux                    35 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 18 mins (3.58%)
-
-✍️ 0 lines written by AI, 8,183 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 2 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 224 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in C#** 
@@ -106,7 +92,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kramarich0/Kramarich0/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2026 21:27:11 UTC
+ Last Updated on 09/09/2026 21:13:16 UTC
 <!--END_SECTION:waka-->
 
 ---
