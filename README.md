@@ -13,7 +13,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 659.0 kB Used in GitHub's Storage 
+> 📦 659.4 kB Used in GitHub's Storage 
  > 
 > 🏆 1,146 Contributions in the Year 2026
  > 
@@ -50,33 +50,33 @@ Sunday                   4771 commits        ███████░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-TypeScript               25 hrs 55 mins      ████████████████░░░░░░░░░   64.54 % 
-JSON                     7 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
-Markdown                 1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-JavaScript               1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-Other                    1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+TypeScript               22 hrs 54 mins      ████████████████░░░░░░░░░   65.38 % 
+JSON                     5 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+Markdown                 2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+JavaScript               1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Other                    1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 
 🔥 Editors: 
-VS Code                  39 hrs 9 mins       ████████████████████████░   97.43 % 
-Copilot CLI              1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+VS Code                  34 hrs              ████████████████████████░   97.06 % 
+Copilot CLI              1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 
 🐱‍💻 Projects: 
-doxynix                  39 hrs 32 mins      █████████████████████████   98.41 % 
-python                   17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-voxhold                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-МНИ24                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-git-js                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+doxynix                  34 hrs 41 mins      █████████████████████████   99.00 % 
+voxhold                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+МНИ24                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+git-js                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+tmp                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Linux                    40 hrs 11 mins      █████████████████████████   100.00 % 
+Linux                    35 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 15 mins (15.55%)
+⏱ AI Coding Time: 6 hrs 15 mins (17.83%)
 
-✍️ 1,541 lines written by AI, 4,950 lines written by hand (23.74% AI-written)
+✍️ 1,541 lines written by AI, 3,547 lines written by hand (30.29% AI-written)
 
 🔤 2,478,946 Input Tokens, 138,933 Output Tokens
 
@@ -91,7 +91,7 @@ Github-Copilot           5 lines             ░░░░░░░░░░░�
 Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 23.74% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 30.29% of written lines came from AI
 📚 Verbose Prompter — average 3,336 characters per prompt
 🔁 Iterative Prompter — average 11 prompts per session
 🔍 Hands-On Reviewer — 99.94% of changed lines were hand-edited
@@ -114,7 +114,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kramarich0/Kramarich0/main/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2026 22:03:19 UTC
+ Last Updated on 15/09/2026 21:46:30 UTC
 <!--END_SECTION:waka-->
 
 ---
