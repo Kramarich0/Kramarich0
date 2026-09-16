@@ -5,7 +5,7 @@
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Kramarich0&theme=transparent&hide_border=true" alt="GitHub Streak" /></a></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-855%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-859%20hrs%2015%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-25%20hrs%2035%20mins-blue?style=flat)
 
@@ -13,7 +13,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 659.4 kB Used in GitHub's Storage 
+> 📦 659.8 kB Used in GitHub's Storage 
  > 
 > 🏆 1,146 Contributions in the Year 2026
  > 
@@ -50,51 +50,51 @@ Sunday                   4771 commits        ███████░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-TypeScript               22 hrs 54 mins      ████████████████░░░░░░░░░   65.38 % 
-JSON                     5 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-Markdown                 2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
-JavaScript               1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Other                    1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+TypeScript               29 hrs 7 mins       █████████████████░░░░░░░░   69.91 % 
+JSON                     5 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+Python                   1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+Markdown                 1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+JavaScript               1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 
 🔥 Editors: 
-VS Code                  34 hrs              ████████████████████████░   97.06 % 
-Copilot CLI              1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+VS Code                  40 hrs 38 mins      ████████████████████████░   97.53 % 
+Copilot CLI              1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
 
 🐱‍💻 Projects: 
-doxynix                  34 hrs 41 mins      █████████████████████████   99.00 % 
-voxhold                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-МНИ24                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-git-js                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-tmp                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+doxynix                  39 hrs 18 mins      ████████████████████████░   94.36 % 
+python                   1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+voxhold                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+МНИ24                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+git-js                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 💻 Operating System: 
-Linux                    35 hrs 2 mins       █████████████████████████   100.00 % 
+Linux                    41 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 15 mins (17.83%)
+⏱ AI Coding Time: 8 hrs 2 mins (19.31%)
 
-✍️ 1,541 lines written by AI, 3,547 lines written by hand (30.29% AI-written)
+✍️ 2,324 lines written by AI, 3,833 lines written by hand (37.75% AI-written)
 
-🔤 2,478,946 Input Tokens, 138,933 Output Tokens
+🔤 3,322,286 Input Tokens, 169,837 Output Tokens
 
-💵 $28.31 Estimated AI Cost This Week
+💵 $31.04 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 98 AI Prompts
+🧠 11 AI Sessions, 133 AI Prompts
 
-Code                     1,059 lines         █████████████████░░░░░░░░   67.93 % 
-GPT                      251 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-Gemini                   244 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-Github-Copilot           5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Code                     1,059 lines         ███████████░░░░░░░░░░░░░░   45.04 % 
+Gemini                   1,036 lines         ███████████░░░░░░░░░░░░░░   44.07 % 
+GPT                      251 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+Github-Copilot           5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 30.29% of written lines came from AI
-📚 Verbose Prompter — average 3,336 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🔍 Hands-On Reviewer — 99.94% of changed lines were hand-edited
+⚖️ Balanced with AI — 37.75% of written lines came from AI
+📚 Verbose Prompter — average 2,907 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🔍 Hands-On Reviewer — 99.91% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C#** 
@@ -114,7 +114,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kramarich0/Kramarich0/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2026 21:46:30 UTC
+ Last Updated on 16/09/2026 21:42:19 UTC
 <!--END_SECTION:waka-->
 
 ---
