@@ -5,7 +5,7 @@
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Kramarich0&theme=transparent&hide_border=true" alt="GitHub Streak" /></a></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-868%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-873%20hrs%2059%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-25%20hrs%2035%20mins-blue?style=flat)
 
@@ -13,9 +13,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 658.0 kB Used in GitHub's Storage 
+> 📦 658.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,151 Contributions in the Year 2026
+> 🏆 1,156 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -27,9 +27,9 @@
 
 ```text
 🌞 Morning                175 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-🌆 Daytime                6471 commits        ██████████░░░░░░░░░░░░░░░   39.61 % 
-🌃 Evening                5557 commits        █████████░░░░░░░░░░░░░░░░   34.01 % 
-🌙 Night                  4134 commits        ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
+🌆 Daytime                6471 commits        ██████████░░░░░░░░░░░░░░░   39.60 % 
+🌃 Evening                5557 commits        ████████░░░░░░░░░░░░░░░░░   34.00 % 
+🌙 Night                  4139 commits        ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
@@ -38,8 +38,8 @@ Monday                   1982 commits        ███░░░░░░░░�
 Tuesday                  1939 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
 Wednesday                1301 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
 Thursday                 2701 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-Friday                   1447 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-Saturday                 2253 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Friday                   1447 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+Saturday                 2258 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
 Sunday                   4714 commits        ███████░░░░░░░░░░░░░░░░░░   28.85 % 
 ```
 
@@ -50,32 +50,32 @@ Sunday                   4714 commits        ███████░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-TypeScript               32 hrs 44 mins      ██████████████████░░░░░░░   72.93 % 
-JSON                     5 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-Python                   2 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-Markdown                 1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-JavaScript               1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+TypeScript               33 hrs 19 mins      ██████████████████░░░░░░░   71.67 % 
+JSON                     5 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Python                   2 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+Markdown                 1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+JavaScript               1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 
 🔥 Editors: 
-VS Code                  43 hrs 52 mins      ████████████████████████░   97.70 % 
-Copilot CLI              1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+VS Code                  45 hrs 27 mins      ████████████████████████░   97.78 % 
+Copilot CLI              1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 
 🐱‍💻 Projects: 
-doxynix                  42 hrs 4 mins       ███████████████████████░░   93.70 % 
-python                   2 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-voxhold                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+doxynix                  43 hrs 39 mins      ███████████████████████░░   93.92 % 
+python                   2 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+voxhold                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 git-js                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 💻 Operating System: 
-Linux                    44 hrs 54 mins      █████████████████████████   100.00 % 
+Linux                    46 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 17 mins (16.22%)
+⏱ AI Coding Time: 7 hrs 17 mins (15.67%)
 
-✍️ 2,320 lines written by AI, 4,436 lines written by hand (34.34% AI-written)
+✍️ 2,320 lines written by AI, 10,023 lines written by hand (18.8% AI-written)
 
 🔤 2,883,787 Input Tokens, 165,775 Output Tokens
 
@@ -89,10 +89,10 @@ GPT                      251 lines           ███░░░░░░░░�
 Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 34.34% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 18.8% of written lines came from AI
 📚 Verbose Prompter — average 2,380 characters per prompt
 🔁 Iterative Prompter — average 12 prompts per session
-🔍 Hands-On Reviewer — 85.2% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 88.86% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C#** 
@@ -112,7 +112,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kramarich0/Kramarich0/main/assets/bar_graph.png)
 
 
- Last Updated on 18/09/2026 21:16:33 UTC
+ Last Updated on 19/09/2026 21:00:52 UTC
 <!--END_SECTION:waka-->
 
 ---
