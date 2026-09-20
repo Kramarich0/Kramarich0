@@ -5,7 +5,7 @@
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Kramarich0&theme=transparent&hide_border=true" alt="GitHub Streak" /></a></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-873%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-880%20hrs%2022%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-25%20hrs%2035%20mins-blue?style=flat)
 
@@ -13,9 +13,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 658.4 kB Used in GitHub's Storage 
+> 📦 658.9 kB Used in GitHub's Storage 
  > 
-> 🏆 1,156 Contributions in the Year 2026
+> 🏆 1,157 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -27,20 +27,20 @@
 
 ```text
 🌞 Morning                175 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-🌆 Daytime                6471 commits        ██████████░░░░░░░░░░░░░░░   39.60 % 
+🌆 Daytime                6471 commits        ██████████░░░░░░░░░░░░░░░   39.59 % 
 🌃 Evening                5557 commits        ████████░░░░░░░░░░░░░░░░░   34.00 % 
-🌙 Night                  4139 commits        ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
+🌙 Night                  4140 commits        ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday                   1982 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-Tuesday                  1939 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+Tuesday                  1939 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
 Wednesday                1301 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
 Thursday                 2701 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
 Friday                   1447 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-Saturday                 2258 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-Sunday                   4714 commits        ███████░░░░░░░░░░░░░░░░░░   28.85 % 
+Saturday                 2259 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+Sunday                   4714 commits        ███████░░░░░░░░░░░░░░░░░░   28.84 % 
 ```
 
 
@@ -50,59 +50,59 @@ Sunday                   4714 commits        ███████░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-TypeScript               33 hrs 19 mins      ██████████████████░░░░░░░   71.67 % 
-JSON                     5 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Python                   2 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-Markdown                 1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-JavaScript               1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+TypeScript               25 hrs 29 mins      ████████████████░░░░░░░░░   65.47 % 
+JSON                     6 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+Python                   2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+Markdown                 1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+YAML                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 
 🔥 Editors: 
-VS Code                  45 hrs 27 mins      ████████████████████████░   97.78 % 
-Copilot CLI              1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+VS Code                  37 hrs 54 mins      ████████████████████████░   97.35 % 
+Copilot CLI              1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 
 🐱‍💻 Projects: 
-doxynix                  43 hrs 39 mins      ███████████████████████░░   93.92 % 
-python                   2 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
-voxhold                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-git-js                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+doxynix                  34 hrs 47 mins      ██████████████████████░░░   89.32 % 
+python                   2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Unknown Project          1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+git-js                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 💻 Operating System: 
-Linux                    46 hrs 29 mins      █████████████████████████   100.00 % 
+Linux                    38 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 17 mins (15.67%)
+⏱ AI Coding Time: 2 hrs 28 mins (6.37%)
 
-✍️ 2,320 lines written by AI, 10,023 lines written by hand (18.8% AI-written)
+✍️ 1,427 lines written by AI, 9,329 lines written by hand (13.27% AI-written)
 
-🔤 2,883,787 Input Tokens, 165,775 Output Tokens
+🔤 1,219,657 Input Tokens, 93,166 Output Tokens
 
-💵 $29.67 Estimated AI Cost This Week
+💵 $24.39 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 110 AI Prompts
+🧠 3 AI Sessions, 12 AI Prompts
 
-Code                     1,059 lines         ███████████░░░░░░░░░░░░░░   45.14 % 
-Gemini                   1,036 lines         ███████████░░░░░░░░░░░░░░   44.16 % 
-GPT                      251 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+Code                     1,059 lines         ██████████████████░░░░░░░   73.34 % 
+GPT                      251 lines           ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
+Gemini                   134 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
 Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 18.8% of written lines came from AI
-📚 Verbose Prompter — average 2,380 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🔍 Hands-On Reviewer — 88.86% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 13.27% of written lines came from AI
+📄 Detailed Prompter — average 1,181 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 90.9% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C#** 
 
 ```text
-C#                       8 repos             ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-TypeScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
-JavaScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+C#                       8 repos             ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
+TypeScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
+JavaScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 ```
 
 
@@ -112,7 +112,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kramarich0/Kramarich0/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2026 21:00:52 UTC
+ Last Updated on 20/09/2026 21:14:42 UTC
 <!--END_SECTION:waka-->
 
 ---
