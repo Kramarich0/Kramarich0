@@ -13,34 +13,34 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 659.2 kB Used in GitHub's Storage 
+> 📦 659.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,158 Contributions in the Year 2026
+> 🏆 1,172 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 22 Public Repositories 
+> 📜 23 Public Repositories 
  > 
 > 🔑 1 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                247 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-🌆 Daytime                6801 commits        ██████████░░░░░░░░░░░░░░░   38.60 % 
-🌃 Evening                6033 commits        █████████░░░░░░░░░░░░░░░░   34.25 % 
-🌙 Night                  4536 commits        ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
+🌞 Morning                199 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+🌆 Daytime                6582 commits        ██████████░░░░░░░░░░░░░░░   39.20 % 
+🌃 Evening                5732 commits        █████████░░░░░░░░░░░░░░░░   34.14 % 
+🌙 Night                  4279 commits        ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   2152 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-Tuesday                  2083 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-Wednesday                1520 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-Thursday                 2866 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-Friday                   1630 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-Saturday                 2481 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-Sunday                   4885 commits        ███████░░░░░░░░░░░░░░░░░░   27.73 % 
+Monday                   2036 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Tuesday                  2008 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+Wednesday                1374 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+Thursday                 2757 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+Friday                   1510 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+Saturday                 2336 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Sunday                   4771 commits        ███████░░░░░░░░░░░░░░░░░░   28.41 % 
 ```
 
 
@@ -50,22 +50,23 @@ Sunday                   4885 commits        ███████░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-TypeScript               21 hrs 35 mins      ████████████████░░░░░░░░░   64.23 % 
-JSON                     5 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-Python                   2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-YAML                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-Markdown                 1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+TypeScript               29 hrs 1 min        ███████████████░░░░░░░░░░   60.55 % 
+JSON                     9 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
+Python                   5 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+Markdown                 1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+YAML                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
 
 🔥 Editors: 
-VS Code                  33 hrs 36 mins      █████████████████████████   100.00 % 
+VS Code                  47 hrs 56 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-doxynix                  27 hrs 45 mins      █████████████████████░░░░   82.60 % 
-Unknown Project          3 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-python                   2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+doxynix                  38 hrs 13 mins      ████████████████████░░░░░   79.72 % 
+python                   6 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+Unknown Project          3 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+voxhold                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 💻 Operating System: 
-Linux                    33 hrs 36 mins      █████████████████████████   100.00 % 
+Linux                    47 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -74,14 +75,14 @@ Linux                    33 hrs 36 mins      ███████████�
 No AI Coding Activity Tracked This Week
 ```
 
-**I Mostly Code in C#** 
+**I Mostly Code in TypeScript** 
 
 ```text
-C#                       8 repos             ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
-TypeScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
-JavaScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+TypeScript               8 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+C#                       8 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+JavaScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 ```
 
 
@@ -91,7 +92,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kramarich0/Kramarich0/main/assets/bar_graph.png)
 
 
- Last Updated on 21/09/2026 22:23:00 UTC
+ Last Updated on 22/09/2026 21:51:10 UTC
 <!--END_SECTION:waka-->
 
 ---
