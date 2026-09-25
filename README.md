@@ -5,7 +5,7 @@
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Kramarich0&theme=transparent&hide_border=true" alt="GitHub Streak" /></a></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-905%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-921%20hrs%2032%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-25%20hrs%2035%20mins-blue?style=flat)
 
@@ -13,7 +13,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 658.2 kB Used in GitHub's Storage 
+> 📦 658.6 kB Used in GitHub's Storage 
  > 
 > 🏆 1,207 Contributions in the Year 2026
  > 
@@ -50,24 +50,24 @@ Sunday                   4714 commits        ███████░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-TypeScript               35 hrs 34 mins      ████████████████░░░░░░░░░   62.63 % 
-JSON                     9 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
-Python                   3 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
-YAML                     2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-Markdown                 2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+TypeScript               31 hrs 22 mins      ███████████████░░░░░░░░░░   59.85 % 
+JSON                     8 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+Python                   3 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Markdown                 2 hrs 42 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+YAML                     2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 
 🔥 Editors: 
-VS Code                  56 hrs 48 mins      █████████████████████████   100.00 % 
+VS Code                  52 hrs 24 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-doxynix                  35 hrs 17 mins      ████████████████░░░░░░░░░   62.11 % 
-test-backend             14 hrs 9 mins       ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
-python                   3 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-Unknown Project          3 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-voxhold                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+doxynix                  26 hrs 30 mins      █████████████░░░░░░░░░░░░   50.56 % 
+test-backend             18 hrs 32 mins      █████████░░░░░░░░░░░░░░░░   35.36 % 
+python                   3 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+Unknown Project          3 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+voxhold                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 💻 Operating System: 
-Linux                    56 hrs 48 mins      █████████████████████████   100.00 % 
+Linux                    52 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -93,7 +93,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kramarich0/Kramarich0/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2026 21:58:02 UTC
+ Last Updated on 25/09/2026 22:01:04 UTC
 <!--END_SECTION:waka-->
 
 ---
